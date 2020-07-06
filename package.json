@@ -8,9 +8,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mocha": "latest",
-    "@applitools/eyes-selenium": "latest",
+    "@applitools/eyes-selenium": "^4.41.0",
     "chromedriver": "latest",
+    "mocha": "latest",
     "selenium-webdriver": "latest"
   }
 }
